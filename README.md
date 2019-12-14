@@ -22,8 +22,8 @@ relationships with each other
 There are couple of ways to view and run notebook.
 
    1. The file can be downloaded locally and run on the PC with Jupyter Notebook installed
-   2. It can be viewed in the web browser on the [nbviewer]()
-   3. Directrly on the GitHub
+   2. It can be viewed in the web browser on the [nbviewer](https://nbviewer.jupyter.org/github/G00376332/52465_Project/blob/master/Project_PFDA.ipynb)
+   3. Directrly on the [GitHub](https://github.com/G00376332/52465_Project/blob/master/Project_PFDA.ipynb)
 
 ### How to install Jupyter Notebook
 
